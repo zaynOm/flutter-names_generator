@@ -23,6 +23,4 @@ This project is for learning reasons
 
 >Thats it, this was a simple app to help me learn and undrstand how flutter works.
 
->I you find it helpful. 
-
 >See you 👋🏻
